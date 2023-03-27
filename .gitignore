@@ -8,3 +8,5 @@
 # Ignore object files
 *.o
 
+# Ignore files created by the IDE (probably im not sure tho)
+*.swp
