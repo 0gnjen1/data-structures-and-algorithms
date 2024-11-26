@@ -8,5 +8,8 @@
 # Ignore object files
 *.o
 
+# Ignore binaries with .out extension
+*.out
+
 # Ignore files created by the IDE (probably im not sure tho)
 *.swp
